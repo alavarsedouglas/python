@@ -1,2 +1,2 @@
 # python
- This is my python repository
+ This is my python projects repository
